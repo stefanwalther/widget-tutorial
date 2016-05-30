@@ -15,14 +15,14 @@ Let's review why this is the case:
  
 Therefore an additional concept, called element queries has been provided for styling widgets according to its object size. Widget uses a [CSS element queries polyfil](https://github.com/marcj/css-element-queries) to add support for element based media-queries.
 
-## Example
+## Usage
 
 ***Html:***  
 
 ```html
 <div class="kpi-widget">
 	<div class="inner">
-	
+	    /* Your Content */
 	</div>
 </div>
 ```
@@ -34,20 +34,46 @@ Therefore an additional concept, called element queries has been provided for st
 	/* default style for the inner element */
 }
 
-.kpi-widget[min-width~="300px"] .inner {
+.kpi-widget[max-width~="300px"] .inner {
 	/* 	
 		default style for the inner element 
 		if .kpi-widget has a width of less than 300px 
 	*/
 }
 
-.kpi-widget[min-height~="150px"] .inner {
-	/* 
-		default style for the inner element 
-		if .kpi-widget has a height of less than 150px 
-	*/
+```
+
+## Example
+
+***Kpi-Widget with less/equal than 300px***  
+![](images/more-300px.png)
+
+
+***Widget with more than 300px***  
+![](images/less-300px.png)
+
+```html
+<div class="kpi-widget">
+	<div class="inner">
+		My responsive widget.
+	</div>
+</div>
+```
+
+```css
+.kpi-widget .inner {
+	font-weight:bold;
+	color:darkgray;
+	font-size:30px;
+}
+
+.kpi-widget[max-width~="300px"] .inner {
+	color:red;
+	font-size:16px;
 }
 ```
+
+
 
 ## Reference
 
