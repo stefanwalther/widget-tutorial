@@ -45,11 +45,11 @@ Therefore an additional concept, called element queries has been provided for st
 
 ## Example
 
-***Kpi-Widget with less/equal than 300px***  
+***Kpi-Widget with >= 300px***  
 ![](images/more-300px.png)
 
 
-***Widget with more than 300px***  
+***Widget with less than 300px***  
 ![](images/less-300px.png)
 
 ```html
