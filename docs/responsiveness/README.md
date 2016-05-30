@@ -31,7 +31,7 @@ Therefore an additional concept, called element queries has been provided for st
 
 ```css
 .kpi-widget .inner {
-	/* default style for the inner element
+	/* default style for the inner element */
 }
 
 .kpi-widget[min-width~="300px"] .inner {
