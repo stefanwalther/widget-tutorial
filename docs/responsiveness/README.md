@@ -1,7 +1,7 @@
 ---
 title: Responsive Widgets
 draft: true
-----
+---
 
 When working with web pages, the most common concept to make web pages responsive is to use [CSS media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). 
 Media queries can be used to define different styles for different media types/devices based on the width and height of a device, the orientation, etc.
