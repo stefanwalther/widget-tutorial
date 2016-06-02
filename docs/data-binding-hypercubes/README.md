@@ -1,5 +1,6 @@
 ---
-title: Data binding: Hypercubes
+title: "Data binding: Hypercubes"
+draft: true
 ---
 
 Dimensions and measures defined in your widget object result in an internal data table, a so-called hypercube, that is being exposed to the object, just like for any other standard Qlik Sense object. This data table can be used in your widget.
