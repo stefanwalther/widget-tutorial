@@ -23,7 +23,7 @@ Object                                          | Description
   <thead>
     <tr>
       <th ng-repeat="dim in layout.qHyperCube.qDimensionInfo">{{dim.qFallbackTitle}}</td>
-      <th ng-repeat="mea in layout.qHyperCube.qMeasureInfo" ng-bind="mea.qFallbackTitle"></td>
+      <th ng-repeat="mea in layout.qHyperCube.qMeasureInfo">{{mea.qFallbackTitle}}</td>
     </tr>
   </thead>
   <tbody>
