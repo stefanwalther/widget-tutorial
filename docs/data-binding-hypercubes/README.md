@@ -61,7 +61,7 @@ For more information how to use the Table API, please visit the [Table API refer
 	</thead>
 	<tbody>
 		<tr ng-repeat="row in data.rows track by $index">
-			<td ng-repeat="cell in row.cells track by $index" class="selectable"> {{cell.qText}} </td>
+			<td ng-repeat="cell in row.cells track by $index">{{cell.qText}}</td>
 		</tr>
 	</tbody>
 </table>
