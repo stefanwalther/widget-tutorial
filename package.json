@@ -1,0 +1,33 @@
+{
+  "name": "widget-tutorial",
+  "version": "0.1.0",
+  "description": "Tutorial and recipes for the Widget concept in Qlik Sense.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/widget-tutorial.git"
+  },
+  "keywords": [
+    "qlik",
+    "qlik-sense",
+    "qap",
+    "qlik-analytics-platform",
+    "api",
+    "visualizations",
+    "extensions",
+    "widgets",
+    "kpi",
+    "tables"
+  ],
+  "author": "Stefan Walther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/widget-tutorial/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/widget-tutorial#readme"
+}
