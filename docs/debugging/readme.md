@@ -38,7 +38,11 @@ This becomes even more useful if you use `pre` for a better readable output:
 
 ### Using Chrome's DevTools & `qw-console`
 
+*If you are not familiar with Chrome DevTools or development tools available in nearly every browser, then [the official documentation](https://developer.chrome.com/devtools) is a good starting point. 
+But basically just press `F12` and you'll see a developer tool appearing in your browser***
+
 There is an experimental component available (as of Qlik Sense 3.0) which allows you to output some information in the developer's console: `<qw-console />`.
+
 Just use it anywhere in the Html area as follows:
 
 ***Example:***
@@ -49,3 +53,27 @@ Just use it anywhere in the Html area as follows:
 returns then
 
 ![](images/qw-console-output-settings.png)
+
+## Usage
+
+Log the given object to the console:
+
+```html
+<qw-console log="settings" />
+```
+
+Log the path property of the given data object
+
+```html
+<qw-console log="data.path" />
+```
+
+Log the parent scope of the targeted element using a querySelector:
+
+```html
+<!-- Using Ids -->
+<qw-console log="#objectId" />
+
+<!-- Using classes -->
+<qw-console log=".myClass" />
+```
