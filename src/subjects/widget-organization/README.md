@@ -1,6 +1,6 @@
 ---
 title: Widget organization
-draft: trude
+draft: false
 ---
 
 Widgets can be organized in Widget libraries.

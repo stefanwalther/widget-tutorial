@@ -1,3 +1,7 @@
+---
+title: Styling Widgets
+sub-title: Use Cascading Style Sheets (CSS) to make your widgets just looking great. Go one step further and use the full power of Less to create even more maintainable and re-usable styles.
+---
 
 You can use the full functionality of CSS when styling your widgets. In addition to standard CSS, you can also style your widgets using LESS.
 

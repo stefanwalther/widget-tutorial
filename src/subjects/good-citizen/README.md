@@ -1,4 +1,6 @@
-# What makes a Widget a good citizen
+---
+title: What makes a Widget a good citizen
+---
 
 A Widget should be:
 

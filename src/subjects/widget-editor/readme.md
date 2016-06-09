@@ -1,8 +1,9 @@
 ---
 title: The Widget Editor
-abstract: Get to know the new Widget editor and how it works.
+sub-title: "Get to know the new Widget editor and how it works."
 draft: false
 ---
+
 ## The Widget Editor
 
 The Widget editor is the main tool for a [Widget creator](../personas/#widget-creator) to design, create and develop a widget.

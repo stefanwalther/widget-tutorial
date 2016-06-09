@@ -1,3 +1,7 @@
+---
+title: Widget Personas
+---
+
 ## Personas
 
 (TBD)
@@ -12,4 +16,4 @@
 
 ### Administrator
 
-(TBD)
+An adminstrator can manage widget libraries by using the QMC.

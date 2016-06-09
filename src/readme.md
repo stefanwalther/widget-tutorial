@@ -1,9 +1,11 @@
 ---
 title: Widget Tutorial
+pageOpts:
+  - isDisqus: false
 ---
 
 ## Basic Introduction
-- [The widget concept](subjects/concepts)
+- [The widget concept](subjects/concept)
 - [For whom is widget for?](subjects/personas)
 - [Styling widgets](subjects/styling-widgets)
 - [Responsiveness](subjects/responsiveness)

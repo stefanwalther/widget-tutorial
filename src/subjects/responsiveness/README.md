@@ -40,7 +40,6 @@ Therefore an additional concept, called element queries has been provided for st
 		if .kpi-widget has a width of less than 300px 
 	*/
 }
-
 ```
 
 ## Example
