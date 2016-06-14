@@ -37,5 +37,11 @@
     "tasks": [
       "readme"
     ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0"
   }
 }
