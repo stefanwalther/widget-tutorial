@@ -1,0 +1,13 @@
+{
+  "name": "Result: DataBinding",
+  "description": "Possible result of exercise on data-binding",
+  "author": "Stefan Walther",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "other"
+  },
+  "properties": {
+    "sections": [],
+    "settings": []
+  }
+}

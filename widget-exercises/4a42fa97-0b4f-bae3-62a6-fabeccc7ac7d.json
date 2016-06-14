@@ -1,0 +1,13 @@
+{
+  "name": "Exercise: DataBinding",
+  "description": "",
+  "author": "",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "other"
+  },
+  "properties": {
+    "sections": [],
+    "settings": []
+  }
+}

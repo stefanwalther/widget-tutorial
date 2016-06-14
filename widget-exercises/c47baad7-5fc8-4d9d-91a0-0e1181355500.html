@@ -1,0 +1,59 @@
+<style>.widget-properties {
+
+  padding: 10px 10px 10px 10px;
+
+  h2 {
+	font-size:18px;
+	color: #999;
+	margin-bottom:20px;
+  }
+
+  .row {
+	border-bottom: 1px solid #ccc;
+	padding-top:2px;
+	padding-bottom:2px;
+  }
+
+  .row:after {
+	 content: ".";
+	 display: block;
+	 height: 0;
+	 clear: both;
+	 visibility: hidden;
+  }
+
+  .row .label {
+	 font-weight: bold;
+	 min-width: 100px;
+	 display:inline-block;
+	 padding-right:20px;
+  }
+
+  .row .val {
+	 display:inline-block;
+  }
+
+  .row:nth-child(2n) {
+	  background-color:#F7F7F9;
+  }
+}
+</style>
+<div><div class="widget-properties">
+	<h2>Some properties of this Widget</h2>
+  	<div class="row">
+	  <div class="label">settings.title</div>
+	  <!-- using double curly braces -->
+	  <div class="val">{{settings.title}}</div>
+  	</div>
+	<div class="row">
+	  <div class="label">settings.subtitle</div>
+	  <!-- using double curly braces -->
+	  <div class="val">{{settings.subtitle}}</div>
+  	</div>
+	<div class="row">
+	  <div class="label">settings.footnote</div>
+	  <!-- using ng-bind -->
+	  <div class="val" ng-bind="settings.footnote"></div>
+  	</div>
+</div> 
+</div>
