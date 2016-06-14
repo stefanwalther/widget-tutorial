@@ -131,17 +131,20 @@ A proposed solution can be reviewed in the widget "Result: Custom Properties"
 
 ## Solution exercise #2: Create a drop-down
 
+A proposed solution can be reviewed in the widget "Result: Custom Properties II":
+
 ![](images/dropdown-props.png)
 
 ![](images/dropdown-result.png)
 
-A proposed solution can be reviewed in the widget "Result: Custom Properties II"
 
 ## Solution exercise #3: Create a drop-down and create a binding in CSS
 
-A proposed solution can be review in the widget "Result: Custom Properties III"
+A proposed solution can be review in the widget "Result: Custom Properties III":
 
+![](images/3-properties.png)
 
+![](images/3-result.png)
 
 
 
