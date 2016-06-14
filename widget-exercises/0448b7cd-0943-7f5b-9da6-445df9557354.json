@@ -1,0 +1,10 @@
+{
+  "name": "Exercise: Formatted Table",
+  "description": "",
+  "author": "",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "table"
+  },
+  "properties": {}
+}
