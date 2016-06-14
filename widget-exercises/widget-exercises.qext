@@ -1,0 +1,10 @@
+{
+  "name": "widget-exercises",
+  "description": "Widget Exercises",
+  "type": "widget-library",
+  "version": 1,
+  "author": "Stefan Walther",
+  "widgets": [
+    "04ccf2f4-1e29-6e75-7c92-911ff797d4ce",
+  ]
+}
