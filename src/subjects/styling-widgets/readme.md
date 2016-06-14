@@ -19,7 +19,8 @@ There are only a few rules you should consider when styling your widgets:
 
 ## Rule #1: Never use IDs
 
-### Bad
+**This is bad and not recommended**
+
 ***Html:***
 ```html
 <div id="my-object">
@@ -28,16 +29,16 @@ There are only a few rules you should consider when styling your widgets:
 ```
 
 ```css
-
 #my-object {
     /* your custom styling */
 }
 ```
 
 Since the Id attribute of Html objects are supposed to be unique on a single page, this can lead to problems if your widget is used several times on a single sheet.
+
 Use CSS classes instead:
 
-### OK
+**This is OK**
 
 ```html
 <div class="my-object">
@@ -119,3 +120,5 @@ You can use dynamic data binding inside the CSS/Less definition.
     color: @color; /* Use the Less variable */
 }
 ```
+
+

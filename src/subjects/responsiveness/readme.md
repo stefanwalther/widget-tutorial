@@ -1,6 +1,6 @@
 ---
-title: Responsive Widgets
-draft: true
+title: "Responsive Widgets"
+sub-title: "How to make your widgets fully responsive."
 ---
 
 When working with web pages, the most common concept to make web pages responsive is to use [CSS media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). 

@@ -1,4 +1,8 @@
-## Debug Information in Widgets
+---
+title: Debugging Widgets
+sub-title: Some tips and tricks how to debug Widgets.
+draft: false
+---
 
 When working with data resp. properties in your widgets, it's quite often useful to get the current state of the AngularJS scope, so that you can validate the output or just to get a better understanding of the underlying data-structure.
 
