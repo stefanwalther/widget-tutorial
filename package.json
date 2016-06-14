@@ -1,7 +1,7 @@
 {
   "name": "widget-tutorial",
   "version": "0.1.0",
-  "description": "Tutorial and recipes for the Widget concept in Qlik Sense.",
+  "description": "A comprehensive tutorial + recipes to get started with widgets in Qlik Sense.",
   "keywords": [
     "api",
     "extensions",
@@ -19,7 +19,7 @@
     "url": "https://github.com/stefanwalther/widget-tutorial/issues"
   },
   "license": "MIT",
-  "author": "Stefan Walther",
+  "author": "Stefan Walther (https://github.com/stefanwalther)",
   "directories": {
     "src": "src"
   },
@@ -29,5 +29,13 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "nil",
+    "tasks": [
+      "readme"
+    ]
   }
 }

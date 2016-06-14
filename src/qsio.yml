@@ -99,6 +99,8 @@
 - type: section
   label: "FAQ"
   key: "subjects/faq/"
+  hideToc: true
 - type: section
   label: "Experiments"
   key: "experiments/"
+  hideToc: true
