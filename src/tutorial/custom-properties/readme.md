@@ -127,6 +127,21 @@ Now you can change the value of the property and you'll get an updated widget de
 ![](images/custom-property-result.gif)
 
 
+A proposed solution can be reviewed in the widget "Result: Custom Properties"
+
+## Solution exercise #2: Create a drop-down
+
+![](images/dropdown-props.png)
+
+![](images/dropdown-result.png)
+
+A proposed solution can be reviewed in the widget "Result: Custom Properties II"
+
+## Solution exercise #3: Create a drop-down and create a binding in CSS
+
+A proposed solution can be review in the widget "Result: Custom Properties III"
+
+
 
 
 
