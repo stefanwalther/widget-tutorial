@@ -102,29 +102,29 @@ Assuming that you are using the existing widget "Exercise: CustomProperties" you
 
 **1) Open the Property Panel builder**
 
-[](images/open-property-panel-builder.png)
+![](images/open-property-panel-builder.png)
 
 **2) Create a new property**
 **2a) First create a new header**
 Drag and drop the header to the Property Panel.
 
-[](images/create-header.gif)
+![](images/create-header.gif)
 
 **2b) Add a new item to the new header**
 
-[](images/new-input-property.gif)
+![](images/new-input-property.gif)
 
 **2c) Finish the editing mode of the Property Panel builder**
 
 **3) Create a reference to the property in your HTML**
 
-[](images/add-reference.gif)
+![](images/add-reference.gif)
 
 **4) Test the property**
 
 Now you can change the value of the property and you'll get an updated widget depending on what you've entered in the property object.
 
-
+![](images/custom-property-result.gif)
 
 
 
