@@ -21,7 +21,7 @@
   "license": "MIT",
   "author": "Stefan Walther",
   "directories": {
-    "doc": "docs"
+    "src": "src"
   },
   "repository": {
     "type": "git",
