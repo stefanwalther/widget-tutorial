@@ -61,7 +61,7 @@
       hide: true
     - item: item
       label: "Prerequisites"
-      key: "tutorial/01-prerequisites"
+      key: "tutorial/01-prerequisites/"
     - item: item
       label: "The basic concept"
       key: "tutorial/02-basic-concept/"
@@ -73,7 +73,7 @@
       key: "tutorial/custom-properties/"
     - item: item
       label: "Working with data"
-      key: "tutorial/working-with-data"
+      key: "tutorial/working-with-data/"
     - item: item
       label: "Leonardo UI"
       key: "tutorial/leonardo-ui/"
@@ -83,13 +83,13 @@
       wip: true
     - item: item
       label: "Simple KPI tile"
-      key: "tutorial/kpi-tile"
+      key: "tutorial/kpi-tile/"
     - item: item
       label: "Bonus: Containers"
       key: "tutorial/containers/"
     - item: item
       label: "Bonus: Advanced KPI tile"
-      key: "tutorial/kpi-tile-advanced"
+      key: "tutorial/kpi-tile-advanced/"
 - type: section
   label: "Recipes"
   items:
