@@ -21,8 +21,11 @@
       hide: true
     - type: item
       label: "Styling widgets"
-      key: "subjects/styling-widgets/"
+      key: "subjects/styling-widgets"
       wip: true
+    - type: item
+      label: "Styling widgets: Recommendations"
+      key: "subjects/styling-widgets-recommendations/"
     - type: item
       label: "Responsive widgets"
       key: "subjects/responsiveness/"
@@ -35,6 +38,7 @@
     - type: item
       label: "What makes a widget a good citizen?"
       key: "subjects/good-citizen/"
+      wip: true
 - type: section
   label: "Getting Started"
   desc: "Gettings started with using the IDE to create and maintain widgets: the widget editor."
