@@ -3,7 +3,7 @@ title: "The Basic Concept"
 sub-title: "Make yourself familiar with the basic concepts of the Widget editor."
 ---
 
-## Exercise (~ 10 mins)
+## Exercise (~ 5-10 mins)
 
 - Open the Widget library "widget-exercises" 
 - Create a new widget in the Widget library “widget-exercises”
