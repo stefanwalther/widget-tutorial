@@ -1,0 +1,77 @@
+{
+  "name": "Result: Custom Property III",
+  "description": "",
+  "author": "Stefan Walther",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "other"
+  },
+  "properties": {
+    "sections": [
+      {
+        "type": "header",
+        "order": 0,
+        "parent": "qw-pe-dropzone0-0",
+        "ref": "header1",
+        "label": "Settings"
+      }
+    ],
+    "settings": [
+      {
+        "type": "string",
+        "expression": "optional",
+        "defaultValue": "",
+        "order": 0,
+        "parent": "header1",
+        "ref": "customProperty",
+        "label": "Custom Property"
+      },
+      {
+        "component": "dropdown",
+        "type": "string",
+        "defaultValue": "foo",
+        "options": [
+          {
+            "label": "foo",
+            "value": "foo"
+          },
+          {
+            "label": "bar",
+            "value": "bar"
+          },
+          {
+            "label": "baz",
+            "value": "baz"
+          }
+        ],
+        "order": 1,
+        "parent": "header1",
+        "ref": "fooBarBaz",
+        "label": "My Dropdown"
+      },
+      {
+        "component": "dropdown",
+        "type": "string",
+        "defaultValue": "#efefef",
+        "options": [
+          {
+            "label": "Light Gray",
+            "value": "#efefef"
+          },
+          {
+            "label": "Dark Gray",
+            "value": "#333"
+          },
+          {
+            "label": "Dark Red",
+            "value": "#990000"
+          }
+        ],
+        "order": 2,
+        "parent": "header1",
+        "ref": "backgroundColor",
+        "label": "Background color"
+      }
+    ]
+  }
+}
