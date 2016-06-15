@@ -8,6 +8,8 @@ All you need for the following exercises are
 - Qlik Sense Desktop 3.x or
 - Qlik Sense Server 3.x
 
+- [The widget library "widget-exercises"](downloads/widget-exercises.zip)
+
 In case of Qlik Sense Server open [http[s]://server-name/hub](http[s]://server-name/hub), in case of Qlik Sense Desktop open [http://localhost:4848/hub](http://localhost:4848/hub)
 
 ## Open Dev Hub
