@@ -1,0 +1,72 @@
+{
+  "name": "Result: Minimalistic KPI",
+  "description": "",
+  "author": "",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "kpi"
+  },
+  "properties": {
+    "sections": [
+      {
+        "type": "header",
+        "order": 0,
+        "parent": "qw-pe-dropzone0-0",
+        "ref": "header1",
+        "label": "Settings"
+      }
+    ],
+    "settings": [
+      {
+        "type": "string",
+        "expression": "optional",
+        "defaultValue": "",
+        "order": 0,
+        "parent": "header1",
+        "ref": "kpiTitle",
+        "label": "Title"
+      },
+      {
+        "type": "string",
+        "expression": "optional",
+        "defaultValue": "",
+        "order": 1,
+        "parent": "header1",
+        "ref": "kpi",
+        "label": "KPI"
+      },
+      {
+        "component": "dropdown",
+        "type": "string",
+        "defaultValue": "red",
+        "options": [
+          {
+            "label": "Red",
+            "value": "red"
+          },
+          {
+            "label": "Orange",
+            "value": "orange"
+          },
+          {
+            "label": "Green",
+            "value": "green"
+          }
+        ],
+        "order": 2,
+        "parent": "header1",
+        "ref": "color",
+        "label": "Color"
+      },
+      {
+        "type": "string",
+        "expression": "optional",
+        "defaultValue": "",
+        "order": 3,
+        "parent": "header1",
+        "ref": "comparisonKPI",
+        "label": "Comparison KPI"
+      }
+    ]
+  }
+}
