@@ -70,7 +70,7 @@ OK, much better, we have now a working conditional rendering, based on the value
 
 
 **Finally:**
-A proposed solution can be found in the widget "Result: AngularJS Binding".
+A proposed solution can be found in the widget "Result: AngularJS Binding" (widget library "widget-exercises").
 
 ## References
 
