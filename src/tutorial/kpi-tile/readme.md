@@ -16,6 +16,8 @@ Start by using the existing widget template “Exercise: Minimalistic KPI” in 
     - Title, KPI and the color should be bound to the properties defined by the user.
 - Test the KPI extensively in an existing app
 
+{{#hl}}Don't proceed, first try it, then have a look at the solution ;-){{/hl}}
+
 ## Solution
 
 First create the properties:
@@ -64,3 +66,4 @@ And here comes a nice trick:
 ## The Final Result
 
 ![](images/result.gif)
+A proposed solution can be review in the widget "Result: Minimalistic KPI" (widget library "widget-exercises").

@@ -140,7 +140,7 @@ A proposed solution can be reviewed in the widget "Result: Custom Properties II"
 
 ## Solution exercise #3: Create a drop-down and create a binding in CSS
 
-A proposed solution can be review in the widget "Result: Custom Properties III":
+A proposed solution can be review in the widget "Result: Custom Properties III" (widget library "widget-exercises"):
 
 ![](images/3-properties.png)
 
