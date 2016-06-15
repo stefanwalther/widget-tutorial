@@ -21,7 +21,7 @@ The final result should render a table with some properties in a format similar 
 
 ## Solution
 
-By opening the widget "Result: DataBinding" you can have a look at the proposed solution.
+By opening the widget "Result: DataBinding" (widget library "widget-exercises") you can have a look at the proposed solution.
 
 
 ## References and further readings
