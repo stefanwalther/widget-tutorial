@@ -1,0 +1,13 @@
+{
+  "name": "Exercise: Minimalistic KPI",
+  "description": "",
+  "author": "",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "kpi"
+  },
+  "properties": {
+    "sections": [],
+    "settings": []
+  }
+}

@@ -90,7 +90,7 @@
       key: "tutorial/actions/"
       wip: true
     - item: item
-      label: "Simple KPI tile"
+      label: "Minimalistic KPI tile"
       key: "tutorial/kpi-tile/"
     - item: item
       label: "Bonus: Containers"
