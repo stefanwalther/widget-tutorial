@@ -1,0 +1,34 @@
+<style>padding: 20px;
+
+h2 {
+  	font-size:20px;
+	margin-bottom:20px;
+}
+.details {
+	ul {
+	margin-left:30px;
+	}
+}
+.eof {
+	color: #990000;
+	font-weight: bold;
+}</style>
+<div><h2>ng-if</h2>
+
+<div class="details" ng-if="settings.showDetails">
+ Here are the details, actually it could be any content:
+ 
+ <ul>
+ 	<li>A table</li>
+ 	<li>A qlik-visual</li>
+	<li>Some KPIs</li>
+ </ul>
+ The imagination is the only limitation ...
+</div>
+<div ng-if="!settings.showDetails" class="eof">
+	Nothing to show, please enable "Show Details" ...
+</div>
+
+<hr>
+
+</div>

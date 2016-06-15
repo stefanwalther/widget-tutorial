@@ -1,0 +1,31 @@
+{
+  "name": "Result: AngularJS Binding",
+  "description": "",
+  "author": "",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "other"
+  },
+  "properties": {
+    "sections": [
+      {
+        "type": "header",
+        "order": 1,
+        "parent": "qw-pe-dropzone0-1",
+        "ref": "header1",
+        "label": "Settings"
+      }
+    ],
+    "settings": [
+      {
+        "type": "boolean",
+        "expression": "optional",
+        "defaultValue": true,
+        "order": 0,
+        "parent": "header1",
+        "ref": "showDetails",
+        "label": "Show Details"
+      }
+    ]
+  }
+}

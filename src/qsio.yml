@@ -82,6 +82,9 @@
       label: "Leonardo UI"
       key: "tutorial/leonardo-ui/"
     - item: item
+      label: "AngularJS binding"
+      key: "tutorial/angularjs-binding"
+    - item: item
       label: "Actions"
       key: "tutorial/actions/"
       wip: true
