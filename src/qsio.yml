@@ -98,6 +98,7 @@
     - item: item
       label: "Bonus: Advanced KPI tile"
       key: "tutorial/kpi-tile-advanced/"
+      wip: true
 - type: section
   label: "Recipes"
   items:
