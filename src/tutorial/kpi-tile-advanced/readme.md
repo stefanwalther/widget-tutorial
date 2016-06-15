@@ -19,3 +19,6 @@ The KPI tile should offer the following functionality:
 
 ![](images/result.gif)
 
+## Solution
+
+Have a look into the "Drill KPI", part of the sample widgets, delivered with Qlik Sense.
