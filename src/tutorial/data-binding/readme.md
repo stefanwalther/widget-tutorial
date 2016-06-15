@@ -19,6 +19,8 @@ The final result should render a table with some properties in a format similar 
 
 ![](images/result.png)
 
+{{#hl}}Don't proceed, first try it, then have a look at the solution ;-){{/hl}}
+
 ## Solution
 
 By opening the widget "Result: DataBinding" (widget library "widget-exercises") you can have a look at the proposed solution.
