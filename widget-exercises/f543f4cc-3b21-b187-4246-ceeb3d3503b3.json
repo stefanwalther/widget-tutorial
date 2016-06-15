@@ -1,0 +1,10 @@
+{
+  "name": "Result: Actions",
+  "description": "",
+  "author": "",
+  "library": "widget-exercises",
+  "meta": {
+    "type": "button"
+  },
+  "properties": {}
+}

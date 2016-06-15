@@ -10,7 +10,7 @@ sub-title: "Leverage the power of actions in widgets"
 - Add one of the predefined actions by using `ng-click`
 - Add some buttons and test the functionality by adding a Widget instance to one of your sheets. 
 
-## Example Results
+## Solution Path
 
 This shows a sample widget using several actions:
 
@@ -66,6 +66,11 @@ And another sample widget using actions:
 **Result**
 
 ![](images/example-2.png)
+
+
+## Sample Solution
+
+By opening the widget "Result: Actions" (widget library "widget-exercises") you can have a look at a proposed solution.
 
 
 ## Bonus Exercise
