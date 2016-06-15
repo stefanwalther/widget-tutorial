@@ -1,0 +1,42 @@
+<style>.mnu ul {
+	margin-top:10px;
+	margin-left: 30px;
+	color: blue;
+	cursor: pointer;
+	li:hover {
+		text-decoration: underline;
+	}
+	li:active {
+		color: orange;
+	}
+}
+
+.content {
+	padding: 10px 20px 10px 20px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 1px #efefef solid;
+	
+	> div {
+		font-weight: bold;
+	}
+}</style>
+<div><div class="mnu" ng-init="settings.what='container1'">
+	<ul>
+		<li ng-click="settings.what = 'container1'">Container 1</li>
+		<li ng-click="settings.what = 'container2'">Container 2</li>
+		<li ng-click="settings.what = 'container3'">Container 3</li>
+	</ul>
+</div>
+<div class="content">
+	You have selected 
+	<div ng-if="settings.what === 'container1'">
+		Container 1
+	</div>
+	<div ng-if="settings.what === 'container2'">
+		Container 2
+	</div>
+	<div ng-if="settings.what === 'container3'">
+		Container 3
+	</div>
+</div></div>
