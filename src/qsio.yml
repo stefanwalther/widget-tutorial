@@ -1,115 +1,92 @@
-- type: section
-  label: "Table of Contents"
-  key: "index.html"
-  hideToc: true
-- type: section
-  label: "Basic Introduction"
-  desc: "Understand the basic concept of Widgets for Qlik Sense, how it relates to Visualization extensions, and more."
-  items:
-    - type: item
-      label: "The widget concept"
-      key: "subjects/concept/"
-      wip: true
-    - type: item
-      label: "For whom is widget for?"
-      key: "subjects/personas/"
-      wip: true
-    - type: item
-      label: "Widgets vs. Visualization extensions"
-      key: "subjects/widgets-vs-visualization-extensions/"
-      wip: true
-      hide: true
-    - type: item
-      label: "Styling widgets"
-      key: "subjects/styling-widgets"
-      wip: true
-    - type: item
-      label: "Styling widgets: Recommendations"
-      key: "subjects/styling-widgets-recommendations/"
-    - type: item
-      label: "Responsive widgets"
-      key: "subjects/responsiveness/"
-    - type: item
-      label: "Actions"
-      key: "subjects/actions/"
-    - type: item
-      label: "Debugging widgets"
-      key: "subjects/debugging/"
-    - type: item
-      label: "What makes a widget a good citizen?"
-      key: "subjects/good-citizen/"
-      wip: true
-- type: section
-  label: "Getting Started"
-  desc: "Gettings started with using the IDE to create and maintain widgets: the widget editor."
-  items:
-    - type: item
-      label: "The widget editor"
-      key: "subjects/widget-editor/"
-    - type: item
-      label: "Widget organization"
-      key: "subjects/widget-organization/"
-      wip: true
-- type: section
-  label: "Components"
-  items:
-    - type: item
-      label: "Component: sys-info"
-      key: "subjects/sys-info/"
-- type: section
-  label: "Tutorial"
-  items:
-    - item: item
-      label: "Table of contents"
-      key: "tutorial/00-toc/"
-      hide: true
-    - item: item
-      label: "Prerequisites"
-      key: "tutorial/01-prerequisites/"
-    - item: item
-      label: "The basic concept"
-      key: "tutorial/02-basic-concept/"
-    - item: item
-      label: "Basic data-binding"
-      key: "tutorial/data-binding/"
-    - item: item
-      label: "Custom properties"
-      key: "tutorial/custom-properties/"
-    - item: item
-      label: "Working with data"
-      key: "tutorial/working-with-data/"
-      wip: true
-    - item: item
-      label: "Leonardo UI"
-      key: "tutorial/leonardo-ui/"
-    - item: item
-      label: "AngularJS binding"
-      key: "tutorial/angularjs-binding"
-    - item: item
-      label: "Actions"
-      key: "tutorial/actions/"
-      wip: true
-    - item: item
-      label: "Minimalistic KPI tile"
-      key: "tutorial/kpi-tile/"
-    - item: item
-      label: "Bonus: Containers"
-      key: "tutorial/containers/"
-    - item: item
-      label: "Bonus: Advanced KPI tile"
-      key: "tutorial/kpi-tile-advanced/"
-      wip: true
-- type: section
-  label: "Recipes"
-  items:
-    - type: item
-      label: "Show/Hide"
-      key: "recipes/show-hide/"
-- type: section
-  label: "FAQ"
-  key: "subjects/faq/"
-  hideToc: true
-- type: section
-  label: "Experiments"
-  key: "experiments/"
-  hideToc: true
+sections:
+  - type: section
+    label: "Table of Contents"
+    key: "index.html"
+    isHidden: true
+  - type: section
+    label: "Basic Introduction"
+    desc: "Understand the basic concept of Widgets for Qlik Sense, how it relates to Visualization extensions, and more."
+    pages:
+      - label: "The widget concept"
+        key: "subjects/concept/"
+        wip: true
+      - label: "For whom is widget for?"
+        key: "subjects/personas/"
+        wip: true
+      - label: "Widgets vs. Visualization extensions"
+        key: "subjects/widgets-vs-visualization-extensions/"
+        wip: true
+        hide: true
+      - label: "Styling widgets"
+        key: "subjects/styling-widgets"
+        wip: true
+      - label: "Styling widgets: Recommendations"
+        key: "subjects/styling-widgets-recommendations/"
+      - label: "Responsive widgets"
+        key: "subjects/responsiveness/"
+      - label: "Actions"
+        key: "subjects/actions/"
+      - label: "Debugging widgets"
+        key: "subjects/debugging/"
+      - label: "What makes a widget a good citizen?"
+        key: "subjects/good-citizen/"
+        wip: true
+  - type: section
+    label: "Getting Started"
+    desc: "Gettings started with using the IDE to create and maintain widgets: the widget editor."
+    pages:
+      - label: "The widget editor"
+        key: "subjects/widget-editor/"
+      - label: "Widget organization"
+        key: "subjects/widget-organization/"
+        wip: true
+  - type: section
+    label: "Components"
+    pages:
+      - type: item
+        label: "Component: sys-info"
+        key: "subjects/sys-info/"
+  - type: section
+    label: "Tutorial"
+    pages:
+      - label: "Table of contents"
+        key: "tutorial/00-toc/"
+        hide: true
+      - label: "Prerequisites"
+        key: "tutorial/01-prerequisites/"
+      - label: "The basic concept"
+        key: "tutorial/02-basic-concept/"
+      - label: "Basic data-binding"
+        key: "tutorial/data-binding/"
+      - label: "Custom properties"
+        key: "tutorial/custom-properties/"
+      - label: "Working with data"
+        key: "tutorial/working-with-data/"
+        wip: true
+      - label: "Leonardo UI"
+        key: "tutorial/leonardo-ui/"
+      - label: "AngularJS binding"
+        key: "tutorial/angularjs-binding"
+      - label: "Actions"
+        key: "tutorial/actions/"
+        wip: true
+      - label: "Minimalistic KPI tile"
+        key: "tutorial/kpi-tile/"
+      - label: "Bonus: Containers"
+        key: "tutorial/containers/"
+      - label: "Bonus: Advanced KPI tile"
+        key: "tutorial/kpi-tile-advanced/"
+        wip: true
+  - type: section
+    label: "Recipes"
+    pages:
+      - label: "Show/Hide"
+        key: "recipes/show-hide/"
+  - type: section
+    label: "FAQ"
+    key: "subjects/faq/"
+    isHidden: true
+  - type: section
+    label: "Experiments"
+    key: "experiments/"
+    isHidden: true
