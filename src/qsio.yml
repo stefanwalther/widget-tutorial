@@ -1,10 +1,8 @@
 sections:
-  - type: section
-    label: "Table of Contents"
+  - label: "Table of Contents"
     key: "index.html"
     isHidden: true
-  - type: section
-    label: "Basic Introduction"
+  - label: "Basic Introduction"
     desc: "Understand the basic concept of Widgets for Qlik Sense, how it relates to Visualization extensions, and more."
     pages:
       - label: "The widget concept"
@@ -31,8 +29,7 @@ sections:
       - label: "What makes a widget a good citizen?"
         key: "subjects/good-citizen/"
         wip: true
-  - type: section
-    label: "Getting Started"
+  - label: "Getting Started"
     desc: "Gettings started with using the IDE to create and maintain widgets: the widget editor."
     pages:
       - label: "The widget editor"
@@ -40,14 +37,12 @@ sections:
       - label: "Widget organization"
         key: "subjects/widget-organization/"
         wip: true
-  - type: section
-    label: "Components"
+  - label: "Components"
     pages:
       - type: item
         label: "Component: sys-info"
         key: "subjects/sys-info/"
-  - type: section
-    label: "Tutorial"
+  - label: "Tutorial"
     pages:
       - label: "Table of contents"
         key: "tutorial/00-toc/"
@@ -77,16 +72,13 @@ sections:
       - label: "Bonus: Advanced KPI tile"
         key: "tutorial/kpi-tile-advanced/"
         wip: true
-  - type: section
-    label: "Recipes"
+  - label: "Recipes"
     pages:
       - label: "Show/Hide"
         key: "recipes/show-hide/"
-  - type: section
-    label: "FAQ"
+  - label: "FAQ"
     key: "subjects/faq/"
     isHidden: true
-  - type: section
-    label: "Experiments"
+  - label: "Experiments"
     key: "experiments/"
     isHidden: true
