@@ -6,17 +6,16 @@ sections:
     desc: "Understand the basic concept of Widgets for Qlik Sense, how it relates to Visualization extensions, and more."
     pages:
       - label: "The widget concept"
-        key: "subjects/concept/"
+        #key: "subjects/concept/"
         wip: true
       - label: "For whom is widget for?"
-        key: "subjects/personas/"
+        #key: "subjects/personas/"
         wip: true
       - label: "Widgets vs. Visualization extensions"
-        key: "subjects/widgets-vs-visualization-extensions/"
+        #key: "subjects/widgets-vs-visualization-extensions/"
         wip: true
-        hide: true
       - label: "Styling widgets"
-        key: "subjects/styling-widgets"
+        # key: "subjects/styling-widgets/"
         wip: true
       - label: "Styling widgets: Recommendations"
         key: "subjects/styling-widgets-recommendations/"
@@ -44,9 +43,9 @@ sections:
         key: "subjects/sys-info/"
   - label: "Tutorial"
     pages:
-      - label: "Table of contents"
+      - label: "About the tutorial"
         key: "tutorial/00-toc/"
-        hide: true
+        isHidden: true
       - label: "Prerequisites"
         key: "tutorial/01-prerequisites/"
       - label: "The basic concept"
@@ -61,7 +60,7 @@ sections:
       - label: "Leonardo UI"
         key: "tutorial/leonardo-ui/"
       - label: "AngularJS binding"
-        key: "tutorial/angularjs-binding"
+        key: "tutorial/angularjs-binding/"
       - label: "Actions"
         key: "tutorial/actions/"
         wip: true
@@ -78,7 +77,6 @@ sections:
         key: "recipes/show-hide/"
   - label: "FAQ"
     key: "subjects/faq/"
-    isHidden: true
   - label: "Experiments"
     key: "experiments/"
     isHidden: true
