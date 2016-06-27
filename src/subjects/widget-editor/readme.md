@@ -1,7 +1,6 @@
 ---
 title: The Widget Editor
 sub-title: "Get to know the new Widget editor and how it works."
-draft: false
 ---
 
 ## The Widget Editor

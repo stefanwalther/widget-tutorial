@@ -54,4 +54,5 @@ If you now change the value of the property in the property panel, either the hi
 
 ## Reference
 
-- [AngularJS Documentation for ngShow/ngHide](https://docs.angularjs.org/api/ng/directive/ngShow)
+- [AngularJS Documentation for ngShow](https://docs.angularjs.org/api/ng/directive/ngShow)
+- [AngularJS Documentation for ngHide](https://docs.angularjs.org/api/ng/directive/ngHide)

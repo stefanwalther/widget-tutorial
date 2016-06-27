@@ -74,6 +74,6 @@ A proposed solution can be found in the widget "Result: AngularJS Binding" (widg
 
 ## References
 
-- [AngularJS: ngif](https://docs.angularjs.org/api/ng/directive/ngIf)
-- [AngularJS: ngshow](https://docs.angularjs.org/api/ng/directive/ngShow)
-- [AngularJS: nghide](https://docs.angularjs.org/api/ng/directive/ngHide)
+- [AngularJS: ngIf](https://docs.angularjs.org/api/ng/directive/ngIf)
+- [AngularJS: ngShow](https://docs.angularjs.org/api/ng/directive/ngShow)
+- [AngularJS: ngHide](https://docs.angularjs.org/api/ng/directive/ngHide)

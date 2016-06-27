@@ -1,7 +1,9 @@
 sections:
-  - label: "Table of Contents"
-    key: "index.html"
-    isHidden: true
+  - label: "General"
+    desc: "Unlinked items are in the works and not published, yet. In that case visit the GitHub repository for more details or just help to write on these topcis. Items marked with WIP are already fine to use, but are planned to be improved or extended over time."
+    pages:
+      - label: "Table of Contents"
+        key: "general/toc/"
   - label: "Basic Introduction"
     desc: "Understand the basic concept of Widgets for Qlik Sense, how it relates to Visualization extensions, and more."
     pages:
@@ -29,7 +31,7 @@ sections:
         key: "subjects/good-citizen/"
         wip: true
   - label: "Getting Started"
-    desc: "Gettings started with using the IDE to create and maintain widgets: the widget editor."
+    desc: "Gettings started with using the IDE to create and maintain widgets:"
     pages:
       - label: "The widget editor"
         key: "subjects/widget-editor/"
@@ -72,11 +74,13 @@ sections:
         key: "tutorial/kpi-tile-advanced/"
         wip: true
   - label: "Recipes"
+    desc: "Recipes contain solutions to specific problems with some sample source code."
     pages:
       - label: "Show/Hide"
         key: "recipes/show-hide/"
   - label: "FAQ"
     key: "subjects/faq/"
+    isHidden: true
   - label: "Experiments"
     key: "experiments/"
     isHidden: true

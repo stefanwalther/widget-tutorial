@@ -1,5 +1,6 @@
 ---
 title: The sys-info component
+sub-title: "Work with meta-data from Qlik Sense and use them in your widget."
 ---
 
 ## Introduction
