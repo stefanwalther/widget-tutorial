@@ -1,7 +1,6 @@
 ---
 title: Actions
 sub-title: "Let your widget interact with Qlik Sense using actions."
-draft: false
 ---
 
 The following actions can be used to make your widget more interactive with Qlik Sense:

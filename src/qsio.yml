@@ -79,8 +79,11 @@ sections:
       - label: "Show/Hide"
         key: "recipes/show-hide/"
   - label: "FAQ"
-    key: "subjects/faq/"
-    isHidden: true
+    pages:
+      - label: "Widget organization"
+        key: "faq/widget-organization/"
+      - label: "What's the difference between qWidget & Widget?"
+        key: "faq/qWidget-widgets"
   - label: "Experiments"
     key: "experiments/"
     isHidden: true
