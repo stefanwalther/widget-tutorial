@@ -8,8 +8,7 @@ sections:
     desc: "Understand the basic concept of Widgets for Qlik Sense, how it relates to Visualization extensions, and more."
     pages:
       - label: "The widget concept"
-        #key: "subjects/concept/"
-        wip: true
+        key: "subjects/concept/"
       - label: "Widget personas"
         key: "subjects/personas/"
       - label: "Widgets vs. Visualization extensions"
