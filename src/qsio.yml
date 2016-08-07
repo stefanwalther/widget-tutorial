@@ -10,9 +10,8 @@ sections:
       - label: "The widget concept"
         #key: "subjects/concept/"
         wip: true
-      - label: "For whom is widget for?"
-        #key: "subjects/personas/"
-        wip: true
+      - label: "Widget personas"
+        key: "subjects/personas/"
       - label: "Widgets vs. Visualization extensions"
         #key: "subjects/widgets-vs-visualization-extensions/"
         wip: true
