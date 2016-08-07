@@ -13,8 +13,7 @@ sections:
       - label: "Widget personas"
         key: "subjects/personas/"
       - label: "Widgets vs. Visualization extensions"
-        #key: "subjects/widgets-vs-visualization-extensions/"
-        wip: true
+        key: "subjects/widgets-vs-visualization-extensions/"
       - label: "Styling widgets"
         # key: "subjects/styling-widgets/"
         wip: true
