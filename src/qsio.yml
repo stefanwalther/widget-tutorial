@@ -29,7 +29,6 @@ sections:
         key: "subjects/debugging/"
       - label: "What makes a widget a good citizen?"
         key: "subjects/good-citizen/"
-        wip: true
   - label: "Getting Started"
     desc: "Gettings started with using the IDE to create and maintain widgets:"
     pages:
