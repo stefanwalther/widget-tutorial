@@ -1,5 +1,5 @@
 ---
-title: Show / Hide Elements
+title: "Show / Hide Elements"
 ---
 
 # Show / Hide

@@ -72,6 +72,8 @@ sections:
   - label: "Recipes"
     desc: "Recipes contain solutions to specific problems with some sample source code."
     pages:
+      - label: "Table with dynamic label"
+        key: "recipes/table-with-dynamic-label/"
       - label: "Show/Hide"
         key: "recipes/show-hide/"
   - label: "FAQ"
