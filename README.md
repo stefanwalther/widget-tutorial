@@ -1,4 +1,6 @@
 # widget-tutorial
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/widget-tutorial.svg)](https://greenkeeper.io/)
 > A comprehensive tutorial + recipes to get started with widgets in Qlik Sense.
 
 ## About this Tutorial
